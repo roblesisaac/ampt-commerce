@@ -1,6 +1,6 @@
 {
   "name": "ampt-commerce",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Provides e-commerce services, models, routes that can be used with @ampt/cli ",
   "main": "index.js",
   "type": "module",
