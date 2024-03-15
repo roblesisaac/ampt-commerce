@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/roblesisaac/ampt-commerce/issues"
   },
-  "homepage": "https://github.com/roblesisaac/ampt-commerce#readme"
+  "homepage": "https://github.com/roblesisaac/ampt-commerce#readme",
+  "ampt": {
+    "org": "irobles1030",
+    "app": "ampt-commerce"
+  }
 }
