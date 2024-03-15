@@ -1,0 +1,23 @@
+{
+  "name": "ampt-commerce",
+  "version": "1.0.0",
+  "description": "Provides e-commerce services, models, routes that can be used with @ampt/cli ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roblesisaac/ampt-commerce.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "@ampt"
+  ],
+  "author": "Isaac Robles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roblesisaac/ampt-commerce/issues"
+  },
+  "homepage": "https://github.com/roblesisaac/ampt-commerce#readme"
+}
