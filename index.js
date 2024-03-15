@@ -1,4 +1,4 @@
-import cart from './routes/api/cart';
+import cart from './routes/cart';
 
 
 export { cart };
