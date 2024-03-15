@@ -1,8 +1,9 @@
 {
   "name": "ampt-commerce",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Provides e-commerce services, models, routes that can be used with @ampt/cli ",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/roblesisaac/ampt-commerce/issues"
   },
-  "homepage": "https://github.com/roblesisaac/ampt-commerce#readme"
+  "homepage": "https://github.com/roblesisaac/ampt-commerce#readme",
+  "dependencies": {
+    "ampt-model": "^2.0.1"
+  }
 }
